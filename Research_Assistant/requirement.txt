@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langgraph
+pydantic
+transformers
+duckduckgo-search
+arxiv
+torch
+python-dotenv
